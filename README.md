@@ -1,4 +1,4 @@
-# TKinter Calculator
+# Tkinter Calculator
 
 A simple calculator desktop app built with Python and `tkinter`.
 
@@ -17,9 +17,9 @@ A simple calculator desktop app built with Python and `tkinter`.
 ## Run the Calculator
 
 1. Open a terminal.
-2. Navigate to the project directory:
+2. Navigate to the cloned project directory:
    ```bash
-   cd /home/runner/work/TKinter-Calculator/TKinter-Calculator
+   cd TKinter-Calculator
    ```
 3. Run the app:
    ```bash
